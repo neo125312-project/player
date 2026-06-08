@@ -2274,5 +2274,335 @@
     "playlists": [
       "indie-F"
     ]
+  },
+  "ff9aef90-e626-406a-a535-abce915fb266": {
+    "title": "EDGE OF LIGHT",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "3:07",
+    "suno_bpm": 180,
+    "filename": "153_EDGE_OF_LIGHT_v1.mp3",
+    "suno_id": "ff9aef90-e626-406a-a535-abce915fb266",
+    "order": 153,
+    "aubio_bpm": 117.86,
+    "beat_count_bpm": 117.46,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "b35c2cad-fa34-4cc9-88a4-5ab9cf123797": {
+    "title": "EDGE OF LIGHT",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "3:14",
+    "suno_bpm": 180,
+    "filename": "154_EDGE_OF_LIGHT_v2.mp3",
+    "suno_id": "b35c2cad-fa34-4cc9-88a4-5ab9cf123797",
+    "order": 154,
+    "aubio_bpm": 117.88,
+    "beat_count_bpm": 117.78,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "91470f79-216b-443e-a84f-6fe5d5551eab": {
+    "title": "CONCRETE PULSE",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "3:43",
+    "suno_bpm": 180,
+    "filename": "155_CONCRETE_PULSE_v1.mp3",
+    "suno_id": "91470f79-216b-443e-a84f-6fe5d5551eab",
+    "order": 155,
+    "aubio_bpm": 114.33,
+    "beat_count_bpm": 118.08,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "99c3e7cb-a962-4d48-a146-146cd9d365e4": {
+    "title": "CONCRETE PULSE",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "4:04",
+    "suno_bpm": 180,
+    "filename": "156_CONCRETE_PULSE_v2.mp3",
+    "suno_id": "99c3e7cb-a962-4d48-a146-146cd9d365e4",
+    "order": 156,
+    "aubio_bpm": 113.49,
+    "beat_count_bpm": 117.38,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "2d089947-36ec-4aaa-81d2-ca30ed7df186": {
+    "title": "HOLD THE STORM",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "3:38",
+    "suno_bpm": 180,
+    "filename": "157_HOLD_THE_STORM_v1.mp3",
+    "suno_id": "2d089947-36ec-4aaa-81d2-ca30ed7df186",
+    "order": 157,
+    "aubio_bpm": 114.76,
+    "beat_count_bpm": 118.26,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "8e3ff3ea-17d3-4371-9091-853e2fafa4bc": {
+    "title": "HOLD THE STORM",
+    "tags": "drum and bass, 180 BPM, constant kick drum on every beat, relentless snare hits, non-stop rolling drum loop throughout entire song, no drum break, no silent section, driving breakbeat, heavy bass, energetic, uplifting EDM, anthemic female vocal, motivational, running workout",
+    "duration": "3:33",
+    "suno_bpm": 180,
+    "filename": "158_HOLD_THE_STORM_v2.mp3",
+    "suno_id": "8e3ff3ea-17d3-4371-9091-853e2fafa4bc",
+    "order": 158,
+    "aubio_bpm": 116.66,
+    "beat_count_bpm": 118.52,
+    "detected_bpm": 180,
+    "confidence": "DnB 偵測不準，採 Suno 180",
+    "playlists": [
+      "慢跑"
+    ]
+  },
+  "20bd16d2-ff33-4be6-8f2d-6f4812f86d3f": {
+    "title": "GLASS SKYLINE",
+    "tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section",
+    "duration": "3:53",
+    "suno_bpm": 126,
+    "filename": "160_GLASS_SKYLINE_v2.mp3",
+    "suno_id": "20bd16d2-ff33-4be6-8f2d-6f4812f86d3f",
+    "order": 160,
+    "aubio_bpm": 126.76,
+    "beat_count_bpm": 128.81,
+    "detected_bpm": 126.76,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "工作"
+    ]
+  },
+  "06c6bdfd-e5a5-43af-af0f-d6d264986ad1": {
+    "title": "LONG LIGHT",
+    "tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section",
+    "duration": "4:34",
+    "suno_bpm": 126,
+    "filename": "161_LONG_LIGHT_v1.mp3",
+    "suno_id": "06c6bdfd-e5a5-43af-af0f-d6d264986ad1",
+    "order": 161,
+    "aubio_bpm": 132.49,
+    "beat_count_bpm": 127.77,
+    "detected_bpm": 132.49,
+    "confidence": "⚠ delta 6.5",
+    "playlists": [
+      "工作"
+    ]
+  },
+  "4cf33d78-8e17-4cb1-b4d7-23ad40b107b1": {
+    "title": "LONG LIGHT",
+    "tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section",
+    "duration": "3:39",
+    "suno_bpm": 126,
+    "filename": "162_LONG_LIGHT_v2.mp3",
+    "suno_id": "4cf33d78-8e17-4cb1-b4d7-23ad40b107b1",
+    "order": 162,
+    "aubio_bpm": 126.38,
+    "beat_count_bpm": 127.78,
+    "detected_bpm": 126.38,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "工作"
+    ]
+  },
+  "d71dc681-e39d-4fc1-b94a-b16fafedcf9d": {
+    "title": "GLASS SKYLINE",
+    "tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section",
+    "duration": "4:51",
+    "suno_bpm": 126,
+    "filename": "159_GLASS_SKYLINE_v1.mp3",
+    "suno_id": "d71dc681-e39d-4fc1-b94a-b16fafedcf9d",
+    "order": 159,
+    "aubio_bpm": 128.11,
+    "beat_count_bpm": 129.98,
+    "detected_bpm": 128.11,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "工作"
+    ]
+  },
+  "e6a38b54-3231-4370-abb2-363185728759": {
+    "title": "Porch Light Letter",
+    "tags": "americana, 72 bpm, g major, dusty whiskey-soaked late-night reflective, pedal steel guitar prominent, dusty fingerpicked acoustic guitar, brushed drums, upright bass, no synth, male vocal weathered baritone storytelling, in the style of americana, alt-country, dusty folk",
+    "duration": "3:59",
+    "suno_bpm": 72,
+    "filename": "163_Porch_Light_Letter_v1.mp3",
+    "suno_id": "e6a38b54-3231-4370-abb2-363185728759",
+    "order": 163,
+    "aubio_bpm": 141.25,
+    "beat_count_bpm": 141.25,
+    "detected_bpm": 141.25,
+    "confidence": "⚠ aubio 141.2 likely half-time (Suno 72)",
+    "playlists": [
+      "indie-S"
+    ],
+    "prompt_id": "S8"
+  },
+  "4f3f3c68-46eb-4f4e-b100-6edd69b1fab9": {
+    "title": "Porch Light Letter",
+    "tags": "americana, 72 bpm, g major, dusty whiskey-soaked late-night reflective, pedal steel guitar prominent, dusty fingerpicked acoustic guitar, brushed drums, upright bass, no synth, male vocal weathered baritone storytelling, in the style of americana, alt-country, dusty folk",
+    "duration": "5:24",
+    "suno_bpm": 72,
+    "filename": "164_Porch_Light_Letter_v2.mp3",
+    "suno_id": "4f3f3c68-46eb-4f4e-b100-6edd69b1fab9",
+    "order": 164,
+    "aubio_bpm": 146.54,
+    "beat_count_bpm": 146.54,
+    "detected_bpm": 146.54,
+    "confidence": "⚠ aubio 146.5 likely half-time (Suno 72)",
+    "playlists": [
+      "indie-S"
+    ],
+    "prompt_id": "S8"
+  },
+  "5d7270aa-f626-4e8f-b901-2123c1e942ad": {
+    "title": "Velvet Ballroom",
+    "tags": "art pop, 80 bpm, g sharp minor, ornate baroque theatrical melancholic, harpsichord lead, string quartet swells, woodwind accents flute clarinet, soft timpani kick, no rock drums, female vocal theatrical airy soprano, in the style of art pop, baroque pop, chamber pop",
+    "duration": "4:13",
+    "suno_bpm": 80,
+    "filename": "165_Velvet_Ballroom_v1.mp3",
+    "suno_id": "5d7270aa-f626-4e8f-b901-2123c1e942ad",
+    "order": 165,
+    "aubio_bpm": 164.88,
+    "beat_count_bpm": 164.88,
+    "detected_bpm": 164.88,
+    "confidence": "⚠ aubio 164.9 likely half-time (Suno 80)",
+    "playlists": [
+      "indie-S"
+    ],
+    "prompt_id": "S14"
+  },
+  "06f70004-cced-411b-be17-2f4361418ee5": {
+    "title": "Velvet Ballroom",
+    "tags": "art pop, 80 bpm, g sharp minor, ornate baroque theatrical melancholic, harpsichord lead, string quartet swells, woodwind accents flute clarinet, soft timpani kick, no rock drums, female vocal theatrical airy soprano, in the style of art pop, baroque pop, chamber pop",
+    "duration": "3:35",
+    "suno_bpm": 80,
+    "filename": "166_Velvet_Ballroom_v2.mp3",
+    "suno_id": "06f70004-cced-411b-be17-2f4361418ee5",
+    "order": 166,
+    "aubio_bpm": 159.61,
+    "beat_count_bpm": 159.61,
+    "detected_bpm": 159.61,
+    "confidence": "⚠ aubio 159.6 likely half-time (Suno 80)",
+    "playlists": [
+      "indie-S"
+    ],
+    "prompt_id": "S14"
+  },
+  "18121ba5-9910-46cb-be77-4ec906703b7d": {
+    "title": "Pier End Drift",
+    "tags": "surf rock revival, 138 bpm, a major, sun-soaked breezy californian carefree, spring-reverb twangy electric guitar, surf-style drum pattern with snare emphasis, walking electric bass, tambourine, no synth, male vocal laid-back californian melodic, in the style of surf rock revival, beach pop, indie surf",
+    "duration": "3:24",
+    "suno_bpm": 138,
+    "filename": "167_Pier_End_Drift_v1.mp3",
+    "suno_id": "18121ba5-9910-46cb-be77-4ec906703b7d",
+    "order": 167,
+    "aubio_bpm": 141.45,
+    "beat_count_bpm": 141.45,
+    "detected_bpm": 141.45,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F8"
+  },
+  "99cd131b-f448-4d0d-bca7-5598c6dc4fcf": {
+    "title": "Pier End Drift",
+    "tags": "surf rock revival, 138 bpm, a major, sun-soaked breezy californian carefree, spring-reverb twangy electric guitar, surf-style drum pattern with snare emphasis, walking electric bass, tambourine, no synth, male vocal laid-back californian melodic, in the style of surf rock revival, beach pop, indie surf",
+    "duration": "3:36",
+    "suno_bpm": 138,
+    "filename": "168_Pier_End_Drift_v2.mp3",
+    "suno_id": "99cd131b-f448-4d0d-bca7-5598c6dc4fcf",
+    "order": 168,
+    "aubio_bpm": 141.26,
+    "beat_count_bpm": 141.26,
+    "detected_bpm": 141.26,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F8"
+  },
+  "c8ac6ce8-d094-4e10-87c3-354bea5cefb4": {
+    "title": "Friday Strut",
+    "tags": "indie disco, 122 bpm, d minor, danceable groovy nightclub-bright confident, four-on-the-floor kick, walking disco bass, choppy syncopated rhythm electric guitar, retro analog synth stabs, hi-hat shuffle, female vocal confident danceable bright, in the style of indie disco, nu-disco, dance pop indie",
+    "duration": "3:38",
+    "suno_bpm": 122,
+    "filename": "169_Friday_Strut_v1.mp3",
+    "suno_id": "c8ac6ce8-d094-4e10-87c3-354bea5cefb4",
+    "order": 169,
+    "aubio_bpm": 123.63,
+    "beat_count_bpm": 123.63,
+    "detected_bpm": 123.63,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F13"
+  },
+  "00672327-395d-4b8b-9acc-98d1d8c0b323": {
+    "title": "Friday Strut",
+    "tags": "indie disco, 122 bpm, d minor, danceable groovy nightclub-bright confident, four-on-the-floor kick, walking disco bass, choppy syncopated rhythm electric guitar, retro analog synth stabs, hi-hat shuffle, female vocal confident danceable bright, in the style of indie disco, nu-disco, dance pop indie",
+    "duration": "3:34",
+    "suno_bpm": 122,
+    "filename": "170_Friday_Strut_v2.mp3",
+    "suno_id": "00672327-395d-4b8b-9acc-98d1d8c0b323",
+    "order": 170,
+    "aubio_bpm": 123.48,
+    "beat_count_bpm": 123.48,
+    "detected_bpm": 123.48,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F13"
+  },
+  "75a4b3af-a58f-41af-917c-754f8e72726f": {
+    "title": "Window Latch",
+    "tags": "post-punk revival, 145 bpm, d minor, urgent angular tense motorik driving, clean trebly chorused electric guitar, driving melodic bass dominant, motorik four-on-the-floor drums, no synth pad, male vocal tense talk-sing baritone urgent, in the style of post-punk revival, indie rock UK, krautrock-influenced",
+    "duration": "2:52",
+    "suno_bpm": 145,
+    "filename": "171_Window_Latch_v1.mp3",
+    "suno_id": "75a4b3af-a58f-41af-917c-754f8e72726f",
+    "order": 171,
+    "aubio_bpm": 148.81,
+    "beat_count_bpm": 148.81,
+    "detected_bpm": 148.81,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F11"
+  },
+  "85fdaf6c-d5b5-4948-a779-b1099cdd544c": {
+    "title": "Window Latch",
+    "tags": "post-punk revival, 145 bpm, d minor, urgent angular tense motorik driving, clean trebly chorused electric guitar, driving melodic bass dominant, motorik four-on-the-floor drums, no synth pad, male vocal tense talk-sing baritone urgent, in the style of post-punk revival, indie rock UK, krautrock-influenced",
+    "duration": "3:00",
+    "suno_bpm": 145,
+    "filename": "172_Window_Latch_v2.mp3",
+    "suno_id": "85fdaf6c-d5b5-4948-a779-b1099cdd544c",
+    "order": 172,
+    "aubio_bpm": 149.48,
+    "beat_count_bpm": 149.48,
+    "detected_bpm": 149.48,
+    "confidence": "✓ matches Suno",
+    "playlists": [
+      "indie-F"
+    ],
+    "prompt_id": "F11"
   }
 }
